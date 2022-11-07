@@ -1,0 +1,10 @@
+body {
+  background-color: powderblue;
+  background-image: url(download.png);
+}
+h1 {
+  color: green;
+}
+p {
+  color: red;
+}
